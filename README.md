@@ -29,3 +29,7 @@ Then it reads the content and prints it.
 After that, it appends more content to the file.
 Finally, it reads and prints the modified content.
 
+# OUTPUT OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/bdcd2c19-7e17-4b9b-b696-9788417b0b14)
+
